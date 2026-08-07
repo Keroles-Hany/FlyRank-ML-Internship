@@ -62,4 +62,4 @@ All code, data contracts, baselines, models, and playbooks are fully reproducibl
 
 ## 9. Acknowledgments & data credit
 
-Built on the FlyRank ML Internship dataset. For more details and methodology references, visit [https://flyrank.ai]
+We acknowledge the use of data and tools provided by FlyRank for this internship capstone project. For more information, visit [FlyRank](https://flyrank.ai).
