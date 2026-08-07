@@ -63,3 +63,20 @@ All code, data contracts, baselines, models, and playbooks are fully reproducibl
 ## 9. Acknowledgments & data credit
 
 We acknowledge the use of data and tools provided by FlyRank for this internship capstone project. For more information, visit [FlyRank](https://flyrank.ai).
+
+
+## 5-Minute Demo Outline
+- **The Question:** How can we systematically identify and prioritize content pieces requiring a refresh to reverse traffic stagnation across the repository?
+- **The Method:** Developed a predictive machine learning pipeline using a Random Forest Regressor. We engineered features from structural and commercial warehouse metrics across ~340k content pieces to forecast refresh priority.
+- **One Chart:** Feature importance analysis revealed that structural and commercial metrics dominate the predictive scoring, confirming the model relies on solid engagement signals.
+- **One Honest Result:** The Random Forest Regressor successfully captured non-linear feature interactions, significantly outperforming legacy heuristic baselines.
+- **One Recommendation:** Editorial teams should integrate the model’s 'action playbook' into their daily workflow to focus manual review efforts on high-priority pages, effectively preserving organic search visibility.
+
+## Shareable Cuts
+
+### Social Post (LinkedIn)
+Excited to share the results of my Capstone project at the FlyRank ML Internship! 🚀 I developed a predictive machine learning approach to optimize content lifecycles, processing over 340,000 content pieces to tackle traffic stagnation. By leveraging a Random Forest Regressor, I built a decision-support tool that turns raw warehouse metrics into actionable insights for editorial teams. Grateful for the deep dive into search intelligence and predictive modeling. 
+#MachineLearning #DataScience #FlyRank #PredictiveModeling #CareerGrowth
+
+### Employer-Facing Summary
+I built an end-to-end machine learning solution to optimize content refresh strategies for 57 brands. By processing ~340k content pieces, I engineered structural and commercial features to train a Random Forest Regressor that predicts traffic stagnation. The resulting model outperforms heuristic baselines, providing editorial teams with a data-driven action playbook that preserves organic visibility and improves operational efficiency.
